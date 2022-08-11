@@ -45,6 +45,7 @@ I am Yunus Emre Küçük. I graduated from Kocaeli University Information System
 <img  alt="HTML5" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding:15px;" />
 <img  alt="CSS3" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding:15px;" />
 <img  alt="JavaScript" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding:15px;" />
+<img alt="Angular" width="40px" src="https://user-images.githubusercontent.com/50170946/184158802-fd25cd45-7459-4cb6-9e66-889f35d33c18.png" style="padding:15px;" />
 <img alt="React" width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding:15px;" />
 <img  alt="GitHub" width="35px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png#gh-dark-mode-only" style="padding:15px;" />
 <img  alt="GitHub" width="35px" src="https://user-images.githubusercontent.com/3369400/139448065-39a229ba-4b06-434b-bc67-616e2ed80c8f.png#gh-light-mode-only" style="padding:15px;" />
@@ -76,6 +77,7 @@ I am Yunus Emre Küçük. I graduated from Kocaeli University Information System
 <!-- YOUTUBE:END -->
 
 ➡️ [more videos...](https://www.youtube.com/c/EmreK%C3%BC%C3%A7%C3%BCk/videos)
+
 
 
 
