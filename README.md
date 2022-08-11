@@ -1,6 +1,6 @@
 # Hi, Welcome to my Github <a href="https://www.youtube.com/channel/UCQE_og18zGvwLyBJSkiBANw"><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%"></a>
 
-I am Yunus Emre Küçük. I graduated from Kocaeli University Information Systems Engineering. I am developing applications with android kotlin and react native. You can take a look at the applications I have developed so far on <strong><a href='https://play.google.com/store/apps/developer?id=Emo+Dev.' target='_blank' >Google Play</a></strong>. I do box openings and reviews on <strong><a href='https://www.youtube.com/channel/UCQE_og18zGvwLyBJSkiBANw' target='_blank'>Youtube</a></strong>. I enjoy Photoshop and editing.
+I am Emre Küçük. I graduated from Kocaeli University Information Systems Engineering. I am developing applications with android kotlin and react native. You can take a look at the applications I have developed so far on <strong><a href='https://play.google.com/store/apps/developer?id=Emo+Dev.' target='_blank' >Google Play</a></strong>. I do box openings and reviews on <strong><a href='https://www.youtube.com/channel/UCQE_og18zGvwLyBJSkiBANw' target='_blank'>Youtube</a></strong>. I enjoy Photoshop and editing.
 
 <h3 align="center">Connect with me</h3>
 
