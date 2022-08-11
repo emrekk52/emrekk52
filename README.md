@@ -7,10 +7,10 @@ I am Yunus Emre Küçük. I graduated from Kocaeli University Information System
 ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCQE_og18zGvwLyBJSkiBANw?logo=youtube&logoColor=red&style=for-the-badge)
 ![Twitter Follow](https://img.shields.io/twitter/follow/GReddy_5?color=1DA1F2&logo=twitter&style=for-the-badge)
 ![Github Follow](https://img.shields.io/github/followers/emrekk52?color=cacaca&logo=github&style=for-the-badge)
-<a href='https://www.linkedin.com/in/emre-kucukk/' target='_blank'>
+<a href='https://www.linkedin.com/in/emre-kucukk/' target="_blank">
 ![Linkedin Follow](https://img.shields.io/badge/emre-kucukk?color=004182&style=for-the-badge&logo=linkedin&logoColor=white)
 </a>
-<a href='https://www.instagram.com/emrek52/' target='_blank'>
+<a href='https://www.instagram.com/emrek52/' target="_blank">
 ![Instagram Follow](https://img.shields.io/badge/emrek52-E4405F?style=for-the-badge&logo=instagram&logoColor=white)
 </a>
 <a href='mailto:emrek5252@gmail.com'>
