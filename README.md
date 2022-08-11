@@ -32,11 +32,15 @@ I am Yunus Emre Küçük. I graduated from Kocaeli University Information System
 <img src="https://img.shields.io/badge/Emo Dev.-34A853?style=for-the-badge&logo=google-play&logoColor=FBBC04" />
 </a>
 
+
 <a target="_blank" href="https://g.dev/emrekucuk">
 <img src="https://img.shields.io/badge/Developer Account-2b2c2d?style=for-the-badge&logo=android&logoColor=3DDC84" />
 </a>
 
+<a href="https://github.com/emrekk52">
 <img src="https://komarev.com/ghpvc/?username=emrekk52&label=PROFILE+VIEWS&style=for-the-badge&color=yellow" />
+</a>
+
 
 
 <h3 align="center">Languages and Tools</h3>
