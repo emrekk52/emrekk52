@@ -28,6 +28,14 @@ I am Yunus Emre Küçük. I graduated from Kocaeli University Information System
 <img src="https://img.shields.io/badge/emrek5252@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
+<a target="_blank" href="https://play.google.com/store/apps/developer?id=Emo+Dev.">
+<img src="https://img.shields.io/badge/Emo Dev.-34A853?style=for-the-badge&logo=google-play&logoColor=FBBC04" />
+</a>
+
+<a target="_blank" href="https://g.dev/emrekucuk">
+<img src="https://img.shields.io/badge/Developer Account-2b2c2d?style=for-the-badge&logo=android&logoColor=3DDC84" />
+</a>
+
 <h3 align="center">Languages and Tools</h3>
 
 <div align="center">
