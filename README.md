@@ -36,6 +36,9 @@ I am Yunus Emre Küçük. I graduated from Kocaeli University Information System
 <img src="https://img.shields.io/badge/Developer Account-2b2c2d?style=for-the-badge&logo=android&logoColor=3DDC84" />
 </a>
 
+<img src="https://komarev.com/ghpvc/?username=emrekk52&label=PROFILE+VIEWS&style=for-the-badge&color=yellow" />
+
+
 <h3 align="center">Languages and Tools</h3>
 
 <div align="center">
@@ -63,8 +66,8 @@ I am Yunus Emre Küçük. I graduated from Kocaeli University Information System
 <br />
 
 
-![Emre Github Stats](https://github-readme-stats.vercel.app/api?username=emrekk52&show_icons=true&theme=solarized-light)
-![Emre Github Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emrekk52&layout=compact&theme=solarized-light")
+<img src="https://github-readme-stats.vercel.app/api?username=emrekk52&show_icons=true&theme=solarized-light" height="200" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emrekk52&layout=compact&theme=solarized-light" height="200"  />
+
 
 
 ### 📺 Latest YouTube Videos
