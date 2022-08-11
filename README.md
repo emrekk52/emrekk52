@@ -70,7 +70,7 @@ I am Yunus Emre Küçük. I graduated from Kocaeli University Information System
 <br />
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=emrekk52&show_icons=true&theme=solarized-light" height="190" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emrekk52&layout=compact&theme=solarized-light" height="190"  />
+<img src="https://github-readme-stats.vercel.app/api?username=emrekk52&show_icons=true&theme=solarized-light" height="180" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emrekk52&layout=compact&theme=solarized-light" height="180"  />
 
 
 
